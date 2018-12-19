@@ -1,0 +1,13 @@
+8
+OWWWWWWWO
+OW     WO
+OW     WO
+OW     WO
+OW     WO
+OWX    WO
+OW    XWO
+OWWWWWWWO
+2
+3 3
+4 4
+4 3
